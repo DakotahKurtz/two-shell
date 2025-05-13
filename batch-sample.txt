@@ -1,0 +1,6 @@
+echo abc
+echo abc | wc
+pwd
+ls
+date
+history
