@@ -1,3 +1,5 @@
+tldr: run batch file to link and generate binaries, run with ./twoShell
+
 twoShell is a mostly simple Bash-style shell. A 'zsh-lite' of sorts. Almost all commands are outsourced by
 executing other programs in new processes.
 
